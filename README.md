@@ -18,7 +18,7 @@ The architecture of our proposed approach is as follows
 
 * Clone this repo
 ```
-git clone https://github.com/weaklyseg/MDBA.git
+git clone https://github.com/chentao2016/MDBA.git
 ```
 
 ### Download PASCAL VOC 2012 
